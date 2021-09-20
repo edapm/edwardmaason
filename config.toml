@@ -10,10 +10,8 @@ theme = "github.com/themefisher/twenty-twenty-hugo"
 title = "Edward Mason"
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.desktop]]
-URL = "contact"
-name = "Contact"
-weight = 1
+[menu]
+desktop = []
 [[menu.main]]
 URL = "/"
 name = "Home"
@@ -50,7 +48,7 @@ title = "Contact me for more information."
 address = "Earth"
 content = "Website of Edward Mason, designer and creator"
 copyright = "Copyright &copy;2021 Edward Mason"
-hours = "Sometime"
+hours = "I don't have any"
 title = "About This Site"
 [params.gallery]
 enable = true
