@@ -3,7 +3,6 @@ author = ["Edward Mason"]
 categories = ["Portfolio"]
 date = 2021-09-20T15:00:00Z
 description = "Blog post on my projects"
-draft = true
 image = "/images/nikola-johnny-mirkovic-3zphuoekzjy-unsplash.jpg"
 tags = ["architecture", "portfolio"]
 title = "Architectural Projects"
