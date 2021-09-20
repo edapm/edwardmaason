@@ -47,10 +47,10 @@ content = ""
 enable = true
 title = "Contact me for more information."
 [params.footer]
-address = ""
+address = "Earth"
 content = "Website of Edward Mason, designer and creator"
 copyright = "Copyright &copy;2021 Edward Mason"
-hours = ""
+hours = "Sometime"
 title = "About This Site"
 [params.gallery]
 enable = true
@@ -59,12 +59,12 @@ image = "images/2020-square-2.png"
 [[params.gallery.gallery_item]]
 image = "images/2020-square-1.png"
 [params.social]
-email = "#"
-facebook = "#"
-instagram = "#"
-linkedin = "#"
+email = ""
+facebook = ""
+instagram = ""
+linkedin = ""
 twitter = "edwardmaason"
-yelp = "#"
+yelp = ""
 [taxonomies]
 author = "author"
 category = "categories"
