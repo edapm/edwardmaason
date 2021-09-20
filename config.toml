@@ -51,11 +51,11 @@ copyright = "Copyright &copy;2021 Edward Mason"
 hours = "I don't have any"
 title = "About This Site"
 [params.gallery]
-enable = true
+enable = false
 [[params.gallery.gallery_item]]
-image = "images/2020-square-2.png"
+image = "/images/jeremy-bishop-0-seaqyyoqi-unsplash.jpg"
 [[params.gallery.gallery_item]]
-image = "images/2020-square-1.png"
+image = "/images/rick-hatch-pqtsvopkxzm-unsplash.jpg"
 [params.social]
 email = ""
 facebook = ""
