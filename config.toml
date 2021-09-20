@@ -35,7 +35,7 @@ author = "Edward Mason"
 description = "This is meta description"
 [params.banner]
 heading = "Edward Mason - Designer, coder and creator"
-image = "images/2020-landscape-1-2.png"
+image = "/images/sergey-zolkin-m9qmoh-scfe-unsplash.jpg"
 [params.blog]
 heading = "My latest posts"
 [params.call_to_action]
