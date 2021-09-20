@@ -1,58 +1,9 @@
-# Hugo Twenty Twenty Forestry starter
+# My Website
 
-[Twenty Twenty theme](https://github.com/themefisher/twenty-twenty-hugo) is developed by Themefisher.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/06ff8358-9965-469e-8cdb-4b997af2d135/deploy-status)](https://app.netlify.com/sites/edwardmaason/deploys)
 
-[Live Preview](https://hugo-twenty-twenty-forestry.vercel.app/)
+Hi, this is the code for my website. It's the [Hugo Twenty Twenty theme](https://github.com/themefisher/twenty-twenty-hugo) from [themefisher](http://www.themefisher.com). I use [Forestry.io](https://forestry.io) as the CMS (it's Git-based). The site runs on [Netlify](https://netlify.com).
 
-![Homepage preview](./images/homepage.png)
+## Copyright
 
-## Requirements
-
-- GitHub, GitLab or BitBucket account
-- Hugo > 0.62.2
-
-## Content Management
-
-[![import to Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=DirtyF/hugo-twenty-twenty-forestry&engine=hugo&version=0.74.3)
-
-![Forestry admin interface](./images/forestry-admin.png)
-
-This project has been pre-configured to work with [Forestry](https://forestry.io) a git-based CMS, [import your repository in Forestry](https://app.forestry.io/quick-start?repo=DirtyF/hugo-twenty-twenty-forestry&engine=hugo&version=0.74.3) and you'll be able to edit and preview your site ✨. \
-
-Any changes you make in Forestry will be commited back to the repo and automatically deployed, e.g with [Vercel](#vercel) or [Netlify](#netlify).
-
-## Local development
-
-```bash
-# clone your imported repository
-# cd in the project directory
-# Start local dev server
-hugo server
-```
-
-## Deployment and hosting
-
-### Vercel
-
-[![Deploy to Vercel](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/forestryio/kross-hugo-starter)
-
-Copy-paste your Git repository URL, accept default settings and click deploy ✨.
-
-### Netlify
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/hugo-twenty-twenty-forestry)
-
-1. Set the build command to: `hugo --gc --minify`
-2. Set the publish directory to: `public`
-3. Make sure to set `HUGO_VERSION` to 0.62.2 or above (tested with 0.74.3)
-3. Set the publish directory to: `public`
-
-That's it, now your site gets deployed automatically on `git push` or when saving documents from Forestry.
-
-## Feedback
-
-[Open an issue](https://github.com/themefisher/twenty-twenty-hugo/issues) in the theme's repository.
-
-## LICENSE
-
-[GNU General Public License v2.0](https://github.com/themefisher/twenty-twenty-hugo/blob/master/LICENSE).
+&copy; 2021 Edward Mason.
