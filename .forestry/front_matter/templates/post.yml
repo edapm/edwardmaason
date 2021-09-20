@@ -25,5 +25,6 @@ fields:
   label: description
   description: Meta description
 pages:
+- content/blog/architectural-projects.md
 - content/blog/welcome.md
 - content/blog/welcome.md
