@@ -6,7 +6,7 @@ languageCode = "en-gb"
 languageName = "En"
 paginate = "6"
 summaryLength = "10"
-theme = "github.com/themefisher/twenty-twenty-hugo"
+theme = "github.com/edapm/twenty-twenty-hugo"
 title = "Edward Mason"
 [markup.goldmark.renderer]
 unsafe = true
