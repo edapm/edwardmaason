@@ -1,11 +1,11 @@
 +++
-author = ["Ed Mason"]
-categories = []
+author = ["Edward Mason"]
+categories = ["Blog"]
 date = 2021-10-11T13:00:00Z
-description = ""
+description = "My new coding project"
 draft = true
 image = ""
-tags = []
+tags = ["coding"]
 title = "My New Coding Project"
 
 +++
