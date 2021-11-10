@@ -3,7 +3,6 @@ author = ["Edward Mason"]
 categories = ["Blog"]
 date = 2021-11-10T14:00:00Z
 description = "My new coding project"
-draft = true
 image = "/images/jeremy-bishop-0-seaqyyoqi-unsplash.jpg"
 tags = ["coding"]
 title = "My New Coding Project"
